@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="boton_entrar">Entrar</string>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Aufgabe1</string>
+    <string name="titulo_app">Willkommen</string>
+    <string name="boton_entrar">Betreten</string>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Task1</string>
+    <string name="titulo_app">Welcome</string>
+    <string name="boton_entrar">Enter</string>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Tache1</string>
+    <string name="titulo_app">Bienvenue</string>
+    <string name="boton_entrar">Entrer</string>
+</resources>
